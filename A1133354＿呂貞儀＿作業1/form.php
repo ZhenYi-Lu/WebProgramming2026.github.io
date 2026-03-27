@@ -18,7 +18,7 @@
             <li>出生日期&nbsp&nbsp<input type="date" name="nDate" value=""><br/>
             <li>聯絡電話&nbsp&nbsp<input type="text" placeholder="09XXXXXXXX" name="nNumber" value=""><br/>
             <li>Email&nbsp&nbsp<input type="text" name="nEmail" value=""><br/>
-            <li>學校&nbsp&nbsp<input type="text" name="nEmail" value=""><br/>
+            <li>學校&nbsp&nbsp<input type="text" name="nSchool" value=""><br/>
                 年級&nbsp&nbsp
                 <select name="nGrade">
                     <option value="1">一</option>
@@ -54,7 +54,5 @@
         <input type="submit">
         <input type="reset">
         </center>
-        
-
-            
+    </form>       
 </body>
